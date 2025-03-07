@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MD_Assignment" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/main_white</item>
+        <item name="android:colorSecondary">@color/main_black</item>
+        <item name="android:textColorHint">@color/main_black</item>
+
+
+    </style>
+</resources>

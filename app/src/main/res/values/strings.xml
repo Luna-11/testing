@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MD_Assignment</string>
+    <string name="logo">MoveWell</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

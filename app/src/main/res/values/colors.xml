@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_white">#F7EEE7</color>
+    <color name="main_red">#9E1932</color>
+    <color name="main_black">#000000</color>
+    <color name="sec_white">#FFFFFF</color>
+    <color name="sec_blue">#94A6BD</color>
+    <color name="sec_black">#797A7C</color>
+
+
+
+    <color name="purple">#FFBB86FC</color>
+    <color name="indigo">#FF3700B3</color>
+    <color name="teal">#FF03DAC5</color>
+
+</resources>
